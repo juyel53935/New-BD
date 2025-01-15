@@ -1,0 +1,115 @@
+.Bangladesh{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.Sign-In{
+    color: rgb(0, 106, 80);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    box-sizing: border-box;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 8px;
+padding: 15px 30px;
+}
+.head{
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 160px 24px 160px;
+    
+}
+.content{
+
+}
+.new{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+margin: 16px 0px;
+}
+.idea{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 47px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0%;
+width: 480px;
+}
+.explore{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 8px;
+padding: 17px 34px;
+background: rgb(0, 106, 80);
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 100px;
+       border-radius: 24px;
+background: rgb(198, 228, 214);
+}
+.all{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    padding: 0px 130px 66px 130px;
+    background: rgb(245, 245, 245);
+
+}
+.pillar{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+text-align: left;
+}
+.innovation{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+}
+.dolor{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.pillar-of-bd{
+   display: flex;
+   justify-content: space-between;
+   align-self: stretch;
+      
+       }
+.box{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: #ffffff;
+padding: 24px;
+margin: 0px 24px;
+gap: 24;
+}
